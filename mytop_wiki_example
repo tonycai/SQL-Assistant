@@ -1,0 +1,6 @@
+host=192.168.1.2
+port=3306
+db=wiki_db
+charset=utf8mb4
+user=tonycai
+pass=xxxxxx
